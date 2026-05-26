@@ -1,0 +1,85 @@
+URL: https://vizcom.com/university
+Title: University | Vizcom
+---
+
+Learn Vizcom, accelerate your design process.
+Transform the way you work with our tools to design faster, iterate smarter, and bring concepts to life with clarity.
+Start with Vizcom 101
+Browse all courses
+Courses
+Vizcom 101
+Guided workflows
+Best practices
+Getting started
+Design exploration
+Feature deep dives
+A foundational course designed to help you learn the essentials of sketching, rendering, and iterating with Vizcom.
+Webinars
+Vizcom Webinar: Accelerating the automotive design process
+Guided workflows
+Design exploration
+Feature deep dives
+Explore the latest automotive exterior and interior design workflows in Vizcom and see how designers move from early concepts to refined designs faster, without losing intent or quality. This on-demand webinar covers real-world automotive use cases, live exterior and interior design demos, and best practices for using Vizcom to support fast, iterative design workflows.
+Vizcom Webinar: Studio Refresh Overview + Modify Deep Dive
+Best practices
+Feature deep dives
+Guided workflows
+Teams
+Design exploration
+Explore the latest updates to Vizcom Studio and learn how to use Modify with confidence in real design workflows. This on-demand webinar covers what’s new in the Studio Refresh, why the changes matter, and how to apply Modify effectively for faster, more precise design iteration.
+Lessons
+Creating your account
+Before you can unlock all of Vizcom’s creative tools, the first step is signing up and accessing your workspace. This ensures your sketches, renders, and iterations have a home base where you can explore freely, stay organized, and collaborate with others.
+Start lesson
+Workspace Overview
+Now that you’re signed in, it’s time to get oriented. Your workspace is where all your creative work happens — from sketching and prompting to organizing and sharing. Understanding the layout and structure of your Vizcom workspace ensures you’re set up to collaborate or work solo efficiently.
+Start lesson
+Creative Interface
+Get familiar with the two creative workspaces in Vizcom platform: Studio and Workbench. Whether you're sketching, rendering, or building out complex variations, this video walks through the full creative layout and how to get started creating.
+Start lesson
+Sketch Exploration - Starting in Studio
+Learn how to work in Studio, where sketching and real-time rendering come together. This video shows how to use the Create panel, transition between Live Render, Render, and Refine modes, and apply focused edits using selection tools.
+Start lesson
+Rendering Sketches
+Explore how to achieve accurate renders in Studio by uploading or sketching directly, using Modify to shade and render, prompting with natural language, and adding annotations for greater control over results.
+Start lesson
+Workbench Exploration
+Get familiar with Workbench, where ideas expand through iteration. This video shows how to navigate the infinite canvas, generate variations with Modify, and connect multiple images to influence creative outcomes.
+Start lesson
+Form Variation
+Take a deeper look at Vizcom’s Form Variation tool and how it supports creative exploration. This video shows how to adjust sliders and presets to generate distinct shape outcomes, and how creative descriptors can dramatically shift a product’s form and expression.
+Start lesson
+Making Adjustments
+Learn how to make targeted changes to your design in Studio using Modify.
+Start lesson
+Color Variation
+Learn how to use Vizcom’s Color Variation tools for color exploration. This video shows how to generate new palette directions, browse and apply preset palettes, and build a reusable color library to maintain consistency across projects.
+Start lesson
+New Views
+Learn how to use Vizcom’s New View feature to generate multiple angles of a design, helping you better communicate intent, refine proportions, and maintain visual consistency without redrawing.
+Start lesson
+Generating 3D in Vizcom
+Learn how to generate a 3D model in Vizcom, starting from a single sketch or render and combining multiple views for greater accuracy. This video also walks through exporting your 3D model in various formats for review, collaboration, or prototyping.
+Start lesson
+In context rendering
+Learn how to place your designs into realistic or stylized scenes in Vizcom. This video walks through creating close-up and dramatic product shots, and building scenes with human interaction to add context, storytelling, and scale.
+Start lesson
+Animation
+Learn how to bring your designs to life with animation in Vizcom. This video walks through animating a single image using natural language prompts, applying camera movement presets for cinematic storytelling, and building frame-to-frame animations using multiple images.
+Start lesson
+Generating Moodboards
+Learn how to turn your renders into visual narratives using moodboards and storyboards in Vizcom. This video walks through automatically generating moodboards from product renders, manually extracting material and color elements for presentations, and building storyboards to communicate narrative and context.
+Start lesson
+New Verticals
+Learn how to use moodboards as creative input to inspire new product ideas in Vizcom. This video shows how to render new sketches guided by existing moodboards and repurpose design language to explore new categories or product ranges.
+Start lesson
+Exporting & Upscaling
+Learn how to polish and export your designs in Vizcom using the Adjust and Enhance tools. This video walks through fine-tuning light and color before export, adding clarity and definition with Enhance, and exporting upscaled images for high-resolution use.
+Start lesson
+Vizcom 101 Outro
+Learn the key takeaways from the Vizcom 101 course.
+Start lesson
+Stay up to date with Vizcom University.
+Get notified when new courses, videos, tool tips and more go live
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.

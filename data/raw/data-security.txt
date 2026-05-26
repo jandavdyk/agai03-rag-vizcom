@@ -1,0 +1,40 @@
+URL: https://vizcom.com/data-security
+Title: Vizcom Data & Security | SOC 2, SSO & Enterprise Data Protection
+---
+
+Resources
+Data & Security
+Your work is safe. Your creativity is free
+Core commitments
+Your data stays yours
+We don't train models on your designs. Ever. What you create in Vizcom is yours; private, protected, and never used without permission.
+Encrypted & secure
+Your files are encrypted in transit and at rest. We monitor our infrastructure 24/7 and conduct regular third-party audits to keep your work safe.
+Built for enterprise trust
+ISO 27001, SOC 2 Type II certified and GDPR compliant. Designed to meet the standards of the world's most security-conscious teams.
+Trusted by design programs at
+Technical Details
+Trusted by design teams who take security seriously
+Data Encryption
+All data is encrypted using AES-256 in transit (TLS 1.3) and at rest. Encryption keys are managed through industry-standard key management systems.
+Access Controls
+Role-based access control (RBAC), multi-factor authentication (MFA), and SSO support (Google, Microsoft, Okta). Administrators control team permissions at a granular level.
+Infrastructure & Hosting
+Vizcom is hosted on Amazon Web Services data centers. Our infrastructure is monitored 24/7 with automated threat detection and incident response protocols.
+ISO
+SOC 2 Type II
+GDPR compliant
+Regular Third-Party
+Penetration Testing
+Have questions about security?
+Our team is here to walk you through our infrastructure, compliance, and data handling practices. See trust.vizcom.com
+Contact security team
+Book a demo
+Book a demo
+Learn how Vizcom can fit into your specific team's needs with a tailored demo
+Learn more
+Learn more
+Your form has been submitted!
+Thanks for your message Our team will review your information and get back to you via email within 2-3 business days.
+Return to homepage
+Oops! Something went wrong while submitting the form.

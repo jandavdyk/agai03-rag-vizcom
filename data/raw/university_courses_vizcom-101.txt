@@ -1,0 +1,62 @@
+URL: https://vizcom.com/university/courses/vizcom-101
+Title: Vizcom 101 - Vizcom University Course
+---
+
+Courses
+Vizcom 101
+Vizcom 101
+Introducing Vizcom 101, a foundational course designed to help you learn the essentials of sketching, rendering, and iterating with Vizcom.
+Guided workflows
+Best practices
+Getting started
+Design exploration
+Feature deep dives
+In this course, you’ll go from your first sketch to a high-quality render step by step while learning how to navigate Vizcom, organize your work, and build a workflow that scales with you. Along the way, you’ll explore best practices for faster iteration, file management, and collaboration.
+Start course
+Table of contents
+Lessons
+1
+Creating your account
+2
+Workspace Overview
+3
+Creative Interface
+4
+Sketch Exploration - Starting in Studio
+5
+Rendering Sketches
+6
+Workbench Exploration
+7
+Form Variation
+8
+Making Adjustments
+9
+Color Variation
+10
+New Views
+11
+Generating 3D in Vizcom
+12
+In context rendering
+13
+Animation
+14
+Generating Moodboards
+16
+Exporting & Upscaling
+15
+New Verticals
+You’ll learn how to:
+‍
+Set up your account, workspace, and teams
+Navigate Vizcom’s interface and core tools
+Sketch, render, and iterate on designs
+Use Workbench to explore variations and animation
+Organize files, manage versions, and stay efficient
+‍
+By the end of Vizcom 101, you’ll be fully set up to start using Vizcom with confidence whether you’re working solo or as part of a team.
+Stay up to date with Vizcom University.
+Get notified when new courses, videos, tool tips and more go live
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.

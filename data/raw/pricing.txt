@@ -1,0 +1,177 @@
+URL: https://vizcom.com/pricing
+Title: Vizcom Pricing | Plans for Designers, Teams, & Students
+---
+
+Plans that scale with your team
+Vizcom offers flexible pricing for creators, professionals and organizations collaborating from sketch to final design.
+Get started
+Book a Demo
+Choose the plan right for you
+Monthly
+Annual (save 30%)
+Starter
+$0/
+per user/month
+A simple way to get started and  explore Vizcom
+Includes
+2,250 credits
+Basic AI creation tools
+Standard render speeds
+Unlimited file viewers
+Community support
+Get started
+Professional
+$49/
+per user/month
+Unlock the full Vizcom experience with advanced tools, faster performance, and creator-level control.
+Includes
+20,000 credits
+Ability to purchase credit add-ons
+Priority render queue
+Multi-image generation
+4k exports
+Live Render
+Full design privacy
+Choose Pro
+Enterprise
+Contact Sales
+Scale your design operations with unlimited power and enterprise-level security & performance.
+Includes
+Highest usage
+Fastest renders
+Unlimited seats & teams
+Custom AI models
+Advanced export options
+Dedicated onboarding
+Team management
+Custom/centralized billing
+Audit & access logs
+Single Sign-On (SSO)
+Custom security & privacy
+Priority support
+Contact sales
+Education
+$0/
+per user/month
+(for qualified educators & students)
+Give students and educators full Vizcom capabilities to explore, learn, and create.
+Includes
+15,000 credits
+Ability to purchase credit add-ons
+Prioirty render queue
+Student Ambassador Opportunities
+Exclusive community access
+Apply for access
+Usage-based pricing
+Credits
+measure your usage across the platform. Every action in Vizcom draws from a single balance included in your plan that resets monthly.
+‍
+Add-ons
+let you purchase more credits anytime
+and unused add-on credits roll over each month.
+Learn more
+Compare Features
+Starter
+Get started
+Professional
+Get started
+Enterprise
+Contact sales
+Education
+Learn more
+Files
+10
+Unlimited
+Unlimited
+Unlimited
+Queue Priority
+Standard
+Fast
+Fastest
+Fast
+Add-Ons
+Credits
+2,250 per month
+20,000 per month
+Contact Sales
+15,000 per month
+Images
+~ 140
+~ 1,250
+Contact Sales
+~ 940
+Animations
+~ 40
+~ 360
+Contact Sales
+~ 270
+3D Models
+~ 56
+~ 500
+Contact Sales
+~375
+Upscale Image
+Upscale Video
+Make 3D Exports
+HD Export
+2K Export
+4K Export
+8K Export
+Batch Generation
+Live Render
+Styles
+Creation
+2
+Storage
+25
+50
+25
+Storage/Editor
+2
+5
+2
+Publishing
+Sharing
+Seats
+1
+1
+Unlimited
+1
+Teams
+Unlimited
+Private Teams
+User Roles
+Asset Library
+1 per file
+Personal
+Shared
+Personal
+Security & Data
+Audit logs
+Single Sign-On
+Custom Watermarks
+Security Settings
+Support
+Discord Community Support
+Vizcom Team Support
+Dedicated Priority Support
+Dedicated Slack Support
+Frequently asked questions
+Explore our commonly asked questions or dive into our full feature set
+Explore features
+Book a demo
+Can I use Vizcom for free?
+Yes of course! Our starter plan is completely free, no credit card required. This is a great plan to explore vizcom with.
+Get started for free
+What payment methods can I use?
+We accept all major credit and debit cards.
+Which roles are there and which are paid?
+Admins (paid) – can edit files, manage workspace settings, billing, teams, and invite members. Editors (paid) – can edit files but not manage settings, billing, or teams. Viewers (free) – can only view files in read-only mode.
+How does team billing work?
+Team billing is handled centrally by the Admin. All paid seats, whether Admins or Editors, are included in a single invoice under the same billing cycle, while Viewers remain free and do not affect the cost.
+Can I change my subscription from monthly to yearly?
+Yes, you can. An Admin can update the plan in the billing settings, and the switch will take effect on the next billing cycle at the annual rate.
+Do I own the content I produce in Vizcom?
+Yes, you own everything you create in Vizcom. For free users, while Vizcom may use generated images to improve its services, it does not claim ownership of your designs, concepts, or original ideas—you keep full rights to them. For paid users, your images and designs remain entirely private and are only used to deliver the service. Every design, concept, and image you create or upload is fully yours and kept confidential.
+Does Vizcom use my data to train Al models?
+Vizcom does not use your data to train AI models if you’re on a paid plan. Everything you create stays private and is only used to provide the service. Free users may have their generated images included to help improve Vizcom’s services, but even then, Vizcom does not claim ownership of your designs, concepts, or original ideas—you retain full rights.

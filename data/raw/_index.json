@@ -1,0 +1,242 @@
+[
+  {
+    "url": "https://vizcom.com",
+    "title": "Vizcom | Turn Sketches into Full-Fidelity 3D Renders, Instantly",
+    "filename": "homepage.txt",
+    "length": 4665
+  },
+  {
+    "url": "https://vizcom.com/careers",
+    "title": "Careers at Vizcom | Join Us in Building the Future of Design",
+    "filename": "careers.txt",
+    "length": 3969
+  },
+  {
+    "url": "https://vizcom.com/contact",
+    "title": "Request a Demo | See Vizcom in Action",
+    "filename": "contact.txt",
+    "length": 2067
+  },
+  {
+    "url": "https://vizcom.com/enterprise",
+    "title": "Vizcom Enterprise | Design Platform for Teams Building Real Products",
+    "filename": "enterprise.txt",
+    "length": 2200
+  },
+  {
+    "url": "https://vizcom.com/pricing",
+    "title": "Vizcom Pricing | Plans for Designers, Teams, & Students",
+    "filename": "pricing.txt",
+    "length": 4505
+  },
+  {
+    "url": "https://vizcom.com/solutions/apparel",
+    "title": "Vizcom for Apparel Design | Visualize Garments & Collections",
+    "filename": "solutions_apparel.txt",
+    "length": 5504
+  },
+  {
+    "url": "https://vizcom.com/solutions/automotive",
+    "title": "Vizcom for Automotive Design | Sketch to Studio-Quality Render",
+    "filename": "solutions_automotive.txt",
+    "length": 5436
+  },
+  {
+    "url": "https://vizcom.com/solutions/footwear",
+    "title": "Vizcom for Footwear Design | Render Sneakers & Products Instantly",
+    "filename": "solutions_footwear.txt",
+    "length": 5555
+  },
+  {
+    "url": "https://vizcom.com/solutions/gaming",
+    "title": "Vizcom for Game Design | Scale Virtual Worlds & Character Design in Real Time",
+    "filename": "solutions_gaming.txt",
+    "length": 5377
+  },
+  {
+    "url": "https://vizcom.com/solutions/industrial-design",
+    "title": "Vizcom for Industrial Design | Sketch to Render in Seconds",
+    "filename": "solutions_industrial-design.txt",
+    "length": 5318
+  },
+  {
+    "url": "https://vizcom.com/university-categories/teams",
+    "title": "Teams | Vizcom University",
+    "filename": "university-categories_teams.txt",
+    "length": 586
+  },
+  {
+    "url": "https://vizcom.com/blog",
+    "title": "Vizcom Blog | Design Insights & Product Updates",
+    "filename": "blog.txt",
+    "length": 4335
+  },
+  {
+    "url": "https://vizcom.com/challenges",
+    "title": "Vizcom Challenges | Design Competitions with Real-World Products",
+    "filename": "challenges.txt",
+    "length": 2064
+  },
+  {
+    "url": "https://vizcom.com/challenges-submission",
+    "title": "Challenges Submission",
+    "filename": "challenges-submission.txt",
+    "length": 748
+  },
+  {
+    "url": "https://vizcom.com/challenges/reimagine-the-future-of-furniture-milan-design-week",
+    "title": "Reimagine the Future of Furniture: Milan Design Week | Challenge | Vizcom",
+    "filename": "challenges_reimagine-the-future-of-furniture-milan-design-week.txt",
+    "length": 6308
+  },
+  {
+    "url": "https://vizcom.com/challenges/the-birdhouse-challenge",
+    "title": "The Birdhouse Challenge | Challenge | Vizcom",
+    "filename": "challenges_the-birdhouse-challenge.txt",
+    "length": 6115
+  },
+  {
+    "url": "https://vizcom.com/challenges/viztober",
+    "title": "Viztober | Challenge | Vizcom",
+    "filename": "challenges_viztober.txt",
+    "length": 4058
+  },
+  {
+    "url": "https://vizcom.com/challenges/zellerfeld-mule-design-challenge",
+    "title": "Zellerfeld Mule Design Challenge | Challenge | Vizcom",
+    "filename": "challenges_zellerfeld-mule-design-challenge.txt",
+    "length": 7282
+  },
+  {
+    "url": "https://vizcom.com/data-security",
+    "title": "Vizcom Data & Security | SOC 2, SSO & Enterprise Data Protection",
+    "filename": "data-security.txt",
+    "length": 1792
+  },
+  {
+    "url": "https://vizcom.com/download",
+    "title": "Vizcom Desktop App | Download for Mac & Windows",
+    "filename": "download.txt",
+    "length": 1550
+  },
+  {
+    "url": "https://vizcom.com/legal/privacy-policy",
+    "title": "Privacy Policy | Vizcom",
+    "filename": "legal_privacy-policy.txt",
+    "length": 42777
+  },
+  {
+    "url": "https://vizcom.com/product",
+    "title": "Vizcom Features | AI Rendering, Collaboration & Design Tools",
+    "filename": "product.txt",
+    "length": 2250
+  },
+  {
+    "url": "https://vizcom.com/programs/educators",
+    "title": "Vizcom for Educators | Free Access & Workspaces for Design Education",
+    "filename": "programs_educators.txt",
+    "length": 3687
+  },
+  {
+    "url": "https://vizcom.com/programs/form",
+    "title": "Apply to Vizcom for Education",
+    "filename": "programs_form.txt",
+    "length": 418
+  },
+  {
+    "url": "https://vizcom.com/programs/students",
+    "title": "Vizcom for Students | Free Pro Plan for Design Students",
+    "filename": "programs_students.txt",
+    "length": 2860
+  },
+  {
+    "url": "https://vizcom.com/university",
+    "title": "University | Vizcom",
+    "filename": "university.txt",
+    "length": 5937
+  },
+  {
+    "url": "https://vizcom.com/university-categories/best-practices",
+    "title": "Best practices | Vizcom University",
+    "filename": "university-categories_best-practices.txt",
+    "length": 805
+  },
+  {
+    "url": "https://vizcom.com/university-categories/deep-dives",
+    "title": "Feature deep dives | Vizcom University",
+    "filename": "university-categories_deep-dives.txt",
+    "length": 1240
+  },
+  {
+    "url": "https://vizcom.com/university-categories/design-exploration",
+    "title": "Design exploration | Vizcom University",
+    "filename": "university-categories_design-exploration.txt",
+    "length": 1240
+  },
+  {
+    "url": "https://vizcom.com/university-categories/getting-started",
+    "title": "Getting started  | Vizcom University",
+    "filename": "university-categories_getting-started.txt",
+    "length": 482
+  },
+  {
+    "url": "https://vizcom.com/university-categories/guided-workflows",
+    "title": "Guided workflows | Vizcom University",
+    "filename": "university-categories_guided-workflows.txt",
+    "length": 1238
+  },
+  {
+    "url": "https://vizcom.com/university-categories/individuals",
+    "title": "Individuals | Vizcom University",
+    "filename": "university-categories_individuals.txt",
+    "length": 268
+  },
+  {
+    "url": "https://vizcom.com/university/courses",
+    "title": "Courses | Vizcom",
+    "filename": "university_courses.txt",
+    "length": 646
+  },
+  {
+    "url": "https://vizcom.com/university/courses/vizcom-101",
+    "title": "Vizcom 101 - Vizcom University Course",
+    "filename": "university_courses_vizcom-101.txt",
+    "length": 1533
+  },
+  {
+    "url": "https://vizcom.com/university/lessons/animation",
+    "title": "Animation - Vizcom 101 | Vizcom University",
+    "filename": "university_lessons_animation.txt",
+    "length": 1000
+  },
+  {
+    "url": "https://vizcom.com/university/lessons/color-variation",
+    "title": "Color Variation - Vizcom 101 | Vizcom University",
+    "filename": "university_lessons_color-variation.txt",
+    "length": 979
+  },
+  {
+    "url": "https://vizcom.com/university/lessons/creating-your-account",
+    "title": "Creating your account - Vizcom 101 | Vizcom University",
+    "filename": "university_lessons_creating-your-account.txt",
+    "length": 1010
+  },
+  {
+    "url": "https://vizcom.com/university/lessons/exporting-upscaling",
+    "title": "Exporting & Upscaling - Vizcom 101 | Vizcom University",
+    "filename": "university_lessons_exporting-upscaling.txt",
+    "length": 1010
+  },
+  {
+    "url": "https://vizcom.com/university/lessons/form-variation",
+    "title": "Form Variation - Vizcom 101 | Vizcom University",
+    "filename": "university_lessons_form-variation.txt",
+    "length": 1005
+  },
+  {
+    "url": "https://vizcom.com/university/lessons/generating-3d-in-vizcom",
+    "title": "Generating 3D in Vizcom  - Vizcom 101 | Vizcom University",
+    "filename": "university_lessons_generating-3d-in-vizcom.txt",
+    "length": 1008
+  }
+]

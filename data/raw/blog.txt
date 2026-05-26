@@ -1,0 +1,93 @@
+URL: https://vizcom.com/blog
+Title: Vizcom Blog | Design Insights & Product Updates
+---
+
+VIZCOM BLOG
+Design insights, product updates & community stories
+Featured
+Vizcom Plugins launch with Autodesk Fusion
+Vizcom Plugins are here, starting with Autodesk Fusion. Push 3D models from Vizcom into Fusion at any stage, or bring Fusion models back into Vizcom to keep iterating. A live creative loop between ideation and engineering without rebuilding or reformatting.
+Read more
+Sophia Silver
+May 14, 2026
+Featured
+Most Ideas Die in Sketchbooks
+How AI and Vizcom helped one designer move beyond the sketchbook, visualizing a concrete keyboard from rough idea to finished build, and finding the confidence to actually make it.
+Read more
+Emil Lukas
+Apr 7, 2026
+Featured
+A render is only the beginning: Introducing Extract, Try On & Export
+Read more
+Sophia Silver
+Mar 31, 2026
+Featured
+Hold Your Ideas: Liven Sunrise Alarm Clock
+How designer Otto Loikkanen used Vizcom to bring a sunrise alarm clock from sketch to physical prototype.
+Read more
+Kim Lu
+Feb 20, 2026
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Product updates
+Insight
+Expand creative capacity with Credits
+We're introducing a credits system across Vizcom, one balance to power your entire creative workflow, with the flexibility to grow as your projects demand.
+Read more
+Community
+Hold Your Ideas: The Exhaust Light
+How Berlin-based designer Julius transformed a metal exhaust pipe into a bespoke tealight holder—and used Vizcom to sharpen the vision before building it.
+Read more
+Techniques
+How to Turn a Photo to a 3D Model: A Designer's Guide
+Convert photos and sketches to 3D models with photogrammetry, AI tools, and camera setup best practices.
+Read more
+Insight
+Design Workflow Improvement: Mapping and Fixing Your Current Process
+Learn design workflow optimization tips to cut rendering time from hours to minutes to ship better designs faster.
+Read more
+Insight
+Behind-the-Scenes Design: Why Reviewers Want to See Your Messy Middle
+Improve your design portfolio by documenting and presenting the behind-the-scenes design process of how you think.
+Read more
+Insight
+Remote Design Collaboration: What Physical Product Teams Need to Know
+Learn how distributed physical product design teams collaborate effectively with the right tools and techniques.
+Read more
+Insight
+AI Design Workflow Integration: Where AI Fits Your Process
+AI design workflow integration fits early iteration, not final polish. Learn where AI accelerates your process.
+Read more
+Product updates
+Explore every angle with Free View camera controls
+Free View improves Vizcom’s New View experience with clearer camera control. Separate rotation and tilt to generate consistent views faster, now available to all users.
+Read more
+Insight
+Design-to-Development Handoff: Documentation That Gets Built Right
+Learn how to prepare design work for engineering handoff. Covers visual documentation, material decisions, design rationale, and communicating intent clearly.
+Read more
+Insight
+Automotive Design Education: What Schools Actually Look For
+Prepare your automotive design portfolio for top programs. Skills, projects, and processes that get in.
+Read more
+Insight
+Fashion Croquis: The 9-Head System for Perfect Proportions
+Master fashion croquis with the 9-head proportion system. Learn to build proportionally accurate templates that eliminate the "something's off" problem.
+Read more
+Insight
+Design Sprint for Physical Products: A Five-Day Framework
+Run a five-day design sprint adapted for physical products that covers problem mapping, concept sketching, prototyping strategies, and user testing before manufacturing commitment.
+Read more
+Insight
+Sports Car Design: The Foundation of Performance Design
+Master sports car design fundamentals: proportional relationships, stance engineering, and surface treatments that create visual performance impact.
+Read more
+Product updates
+New in Vizcom: Adaptive Canvas Updates
+Adaptive Canvas removes fixed aspect ratio limits across Vizcom Workbench and Studio, allowing creators to resize, expand, and crop their canvas at any point without restarting or losing work.
+Read more
+Insight
+Component Library: Shared Parts That Keep Products Consistent
+Stop recreating the same design elements. Component libraries let you reuse patterns, reduce inconsistencies, and speed up handoffs.
+Read more
+1

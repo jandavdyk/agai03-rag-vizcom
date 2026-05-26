@@ -1,0 +1,407 @@
+URL: https://vizcom.com/legal/privacy-policy
+Title: Privacy Policy | Vizcom
+---
+
+Privacy Policy
+Effective as of April 24, 2025.
+Introduction
+Vizcom Technologies, Inc. (“Vizcom,” “we”, “us” or “our”) provides a web based application that leverages AI to enable designers and artists to bring ideas to life faster than ever before. This Privacy Policy describes how we process personal information that we collect through our digital or online properties or services that link to this Privacy Policy, including, as applicable, our website, social media pages, marketing activities, live events and other activities described in this Privacy Policy (collectively, the “Service”).
+‍
+This Privacy Policy does not apply to content that we process on behalf of our customers. Our use of that data is governed by our customer  agreements covering access to and use of our Service.
+‍
+NOTICE TO CALIFORNIA USERS: Please see the Notice to California
+Users section for additional information for individuals located in California (which we refer to as “California”) below.
+‍
+NOTICE TO EUROPEAN USERS: Please see the Notice to European Users section for additional information for individuals located in the European Economic Area or United Kingdom (which we refer to as “Europe”, and “European” should be understood accordingly) below.
+Index
+Personal Information we Collect
+How we use your Personal Information
+How we Share your Personal Information
+Your Choices
+Other Sites and Services
+Security
+Data Retention
+International Data Transfers
+Children
+Changes to this Privacy Policy
+How to Contact us
+Notice to California users
+Notice to European users
+‍
+Personal information we collect
+We collect personal information relating to you (“Personal Information”) as follows:
+‍
+1) Information You Provide to Us.
+We collect Personal Information you may provide to us through the Service(s) or in the event you  create an account to use our Service or communicate with us in any manner. This information consists of contact information such as first name, last name, e-mail address, billing and mailing addresses and phone numbers.
+‍
+(a) Account Information.
+While we intentionally minimize the  Personal Information required to use our Service, we do collect profile data, such as the username and password that you may set to  establish an online account on the Service, including biographical details, links to your profiles on social networks, preferences, and any other information that you personally add to your account profile.
+‍
+(b) User Submission.
+We receive and store any information you  knowingly provide, whether via computer, mobile phone, tablet, or  other wireless device that you provide to us in any other way. This  information may include user-generated content data, such as files,  photos, images, audio, music, videos, comments, questions, messages, works of authorship, and other content or information that you generate, transmit, or otherwise make available on the Service, as  well as associated metadata.
+‍
+(c ) Other Information You Provide.
+We collect other information  that you may provide to us, such as when you participate in our surveys or provide us with information to establish your identity or  age (collectively, “Other Information You Provide”).You are under  no obligation to provide any information to us. You also may access, correct, update, or delete your information in your profile at your convenience.
+‍
+2) Third-party sources.
+We may combine Personal Information we  receive from you with Personal Information we obtain from other sources, such as:
+Public sources, such as government agencies, public records, social media platforms, and other publicly available sources.
+Marketing partners, such as joint marketing partners and event co-sponsors.
+Third-party services, such as social media services, that you use to log into, or otherwise link to, your Service account. This data may include your username, profile picture and other information associated with your account on that third-party service that is made available to us based on your account settings on that service.
+‍
+3) Automatic data collection.
+We, our service providers, and our business partners may automatically collect, process and log information about you, your computer or mobile device, and your interaction over time with the Service and other online services, such as:
+‍
+(a) Device data, such as your computer or mobile device’s operating system type and version, manufacturer and model, browser type, settings, screen resolution, RAM and disk size, CPU usage, device  type (e.g., phone, tablet), Internet Protocol address, unique  identifiers (including identifiers used for advertising purposes), language settings, mobile device carrier, radio/network information (e.g., Wi-Fi, LTE, 5G), and general location informationsuch as city, state or geographic area.
+‍
+(b) Online activity data, such as pages or screens you viewed, how long you spent on a page or screen, the website you visited before browsing to the Service, navigation paths between pages or screens, information about your activity on a page or screen, access times and duration of access, and whether you have opened our emails or clicked links within them.
+‍
+(c ) Communications and marketing interaction data such as your  interactions with our email or other communications (e.g., whether you open and/or forward emails) – we may do this through use of  pixel tags (which are also known as clear GIFs), which may be  embedded invisibly in our emails. When you contact or send communications to us, we may collect Personal Information such asyour first name, last name, email address, telephone number and other important information about your inquiry or concern. We further receive and store information based upon our exchanges with you, including when you contact us through the Service, email, social media, or otherwise, as well as when we receive your preferences for receiving our marketing communications.
+‍
+4) Cookies and Similar Technologies.
+We use cookies and other standard internet technologies to operate and administer our Service and improve your experience.
+‍
+(a) Cookies.
+A cookie is a small text file that is placed on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, fontsize and other display preferences) over a period of time, for example so you don’t have to re-enter such information whenever you come back to the website or browse from one page to another.  A cookie canbe classified by its lifespan and the domain to which it belongs. By lifespan, a cookie is either a:
+‍
+(i) Session cookie which is erased when the user closes the browser; or
+‍
+(ii) Persistent cookie which remains on the user’s computer/device for a pre-defined period.
+As for the domain to which it belongs, there are either:
+‍
+(iii) First-party cookies which are set by the web server of the visited page and share the same domain; or
+‍
+(iv) Third-party cookies stored by a different domain to the visited page’s domain. This can happen when the webpagereferences a file located outside its domain.
+‍
+(b) How we use cookies.
+We use cookies for the following purposes:
+(i) Capture and store users’ preferences, account settings, and  certain login information (mainly for convenience, user verification, and account security);
+‍
+(ii) Compile statistics and analytics about your use of and  interaction with our Service, including details about how and  where our Service is accessed, how often a user visits or usesthe Service, the date and time of user visits to, and actions onthe Service, which areas of the Service are visited and for how long, and other similar traffic, usage, and trend data;
+‍
+(iii) Gather important functionality, testing, and performance data about our Service, such as networking activity, CPU load, and resource usage, among other relevant data;
+‍
+(iv) Gather demographic information about our User base; and
+‍
+(v) Perform other similar lawful functions.
+We will not intentionally use cookies or similar technology other than for the purposes stated in this Privacy Policy.
+‍
+(c ) Cookies used by our Service.
+The following lists enable you to recognize the cookies placed on your browser when you use our Service. Although we strive to list all cookies used by us or our technology partners, if you find a discrepancy or think that a cookie has been omitted, please contact us.
+‍
+(i) Our Cookies used on the website can be found
+here
+‍
+(d)Your choices.
+You may elect to allow or deny the use of cookies other than cookies that are necessary for the proper functioning of the Service. If you prefer, you can change your browser to prevent cookies or, at any time, you can review the cookies placed by the Service and update your preferences to allow or deny cookies.  Please note that by blocking or deleting cookies used by our Service, you may not be able to take full advantage of the Service or the Service may not function correctly or at all.
+‍
+How we use your personal information
+In addition to the specific uses above, we may use your Personal Information for the following purposes or as otherwise described at the time of collection:
+‍
+1) Service delivery and operations.
+(a) To operate, maintain, improve and provide the Service;
+‍
+(b) To give you access to the Service and related features, or to restrict your access and enable security features of the Service;
+‍
+(c ) To communicate with you about the Service (e.g., product changes, feature updates, etc.), including by sending Service-related announcements, updates, security alerts, and support and administrative messages;
+‍
+(d) To allow you to manage your account or account information, update your account settings, and (where applicable) organize your content within the Service.
+‍
+(e) To provide technical support or customer service for the Service, and respond to your requests, questions and feedback.
+‍
+(f) To protect the integrity, safety, or security of our Service or our users, and to comply with legal obligations.
+‍
+2) Service personalization.
+(a) To understand your needs and interests
+‍
+(b) To personalize your experience with the Service and our Service-related communications
+‍
+(c ) To remember your selections and preferences as you navigate webpages.
+‍
+3) Marketing and advertising.
+We, our service providers and our third-party advertising partners may  collect and use your Personal Information for marketing and advertising purposes:
+Direct marketing. We may send you direct marketing communications and may personalize these messages based on your needs and interests. You may opt-out of our marketing communications as described in the Opt-out of marketing section below.
+‍
+4) Service improvement and analytics.
+We may use your Personal Information to analyze your usage of the Service, improve the Service, improve the rest of our business, help us understand  user activity on the Service, including which pages are most and least  visited and how visitors move around the Service, as well as user interactions with our emails, and to develop new Services.
+‍
+5) Compliance and Protection.
+(a) To comply with applicable laws, lawful requests, and legal  process, such as to respond to subpoenas, investigations or requests  from government authorities;
+‍
+(b) To protect our, your or others’ rights, privacy, safety or property (including by making and defending legal claims);
+‍
+(c ) To audit our internal processes for compliance with legal and contractual requirements or our internal policies;
+‍
+(d) To enforce the terms and conditions that govern the Service; and
+‍
+(e) To prevent, identify, investigate and deter fraudulent, harmful,  unauthorized, unethical or illegal activity, including cyberattacks and identity theft.
+‍
+(6) Data sharing in the context of corporate events.
+We may share certain Personal Information in the context of actual or prospective corporate events – for more information see ‘How we Share  your Personal Information’ below.
+‍
+(7) To create aggregated, de-identified and/or anonymized data.
+We may create aggregated, de-identified and/or anonymized data from your Personal Information and other individuals whose Personal Information we collect. We make Personal Information into de-identified and/or anonymizeddata by removing information that makes the data identifiable to you. We may use this aggregated, de-identified and/or anonymized data and share it with third parties for our lawful business purposes, including to analyze andimprove the Service and promote our business.
+‍
+(8) Further uses
+In some cases, we may use your Personal Information for further uses, in which case we will ask for your consent to use of your Personal Information for those further purposes if they are not compatible with the initial purposefor which information was collected.
+‍
+How we share your personal information
+We may share your Personal Information with the following parties and as  otherwise described in this Privacy Policy, in other applicable notices, or at the time of collection.
+‍
+1) Information Sharing
+Please note that we do not sell or rent your Personal Information to third-party companies for their marketing purposes.
+‍
+2) Agents and contractors.
+We may share your Personal Information with our third-party agents, contractors, or service providers who are hired to perform services onour behalf or help us operate the Service or our business (such as hosting, information technology, customer support, email delivery, marketing, consumer research and website analytics). These providers may operate or support certain functions of a Service. Theseagents, contractors and service providers are allowed to use the Personal Information shared with them only for the specific tasks or purposes authorized by us as we have determined to be appropriate for delivery of the Service.  Any third party’s use of any Personal Information shared with such third party by us will be limited to supporting us in the delivery of the Service and for no other purposes.
+‍
+Any Personal Information processed by any third-party supporting us shall be processed consistently with this Privacy Policy. We take steps to ensure that all service providers engaged by us to process Personal Information can secure and protect any Personal Information we share with them, and, in addition, when appropriate, we require third parties, agents or contractors to execute a data processing agreement that governs the processing of any Personal Information we may engage such third party, agent or contractor to Process.
+‍
+We may also disclose Personal Information in the context of actual or prospective business transactions (e.g., investments in Vizcom, financing of Vizcom, public stock offerings, or the sale, transfer or merger of all or part of our business, assets or shares), for example, we may need to share certain Personal Information with prospective counterparties and their advisers. We may also disclose your PersonalInformation to an acquirer, successor, or assignee of Vizcom as part of any merger, acquisition, sale of assets, or similar transaction, and/or in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third partiesas one of our business assets.
+‍
+3) Legal disclosures.
+We may disclose Personal Information about you as required or permitted by law and/or to comply with a judicial proceeding, court order, or legal process served on us or to professional advisors, such as lawyers, auditors, bankers and insurers, where necessary in the course of the professional services that they render to us. To the extent permitted by applicable law, we may also disclose Personal Information about you in response to a request from law enforcement agencies, regulators, or other public agencies (including schools or children services) or if such disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety or protect the safety of a child using our Service, protect the security or integrityof our Service, or enable us to take precautions against liability or to protect our rights.
+‍
+4) Business transfers.
+Information about our users, including Personal Information, may be disclosed to third parties with whom we co-sponsor events, with whom we jointly offer our Service, or whose products or services may be of interest to you. When required by applicable law, we will inform you of such disclosure prior to any such disclosure.
+‍
+5) Anonymized information.
+We share aggregated, automatically collected, or otherwise non-Personal Information with third parties for various purposes, including (i) compliance with reporting obligations; (ii) for business ormarketing purposes; (iii) to assist us and other parties in understanding our users’ interests, habits and usage patterns for certain programs, content, services, promotions and/or functionality available through the Service.  We do not share Personal Information about you in this case.
+‍
+The full list of third parties that we disclose Personal Information to and who act as our subprocessors for our Service can be found List of Data
+Subprocessors
+Payment processors. Any payment card information you use to make a purchase on the Service iscollected and processed directly by our payment processors, such as Stripe. Stripe may use your payment data in accordance with its privacy policy,
+https://stripe.com/privacy
+.
+‍
+6) Linked third-party services
+If you log into the Service with, or otherwise link your Service accountto, a social media or other third-party service, we may share your personal information with that third-party service. The third party’s use of the shared information will be governed by its privacy policy and the settings associated with your account with the third-party Service.
+‍
+7) Other users and the public
+Your profile and other user-generated content data may be visible to  other users of the Service and the public. For example, other users of the Service or the public may have access to your information if you chose to make your profile or other Personal Information available to them through the Service, such as when you provide comments, reviews, or share other content. This information can be seen, collected and used by others, including being cached, copied, screen captured or stored elsewhere by others (e.g., search engines), and we are not responsible for any such use of this information.
+‍
+Your choices
+In this section, we describe the rights and choices available to all users. Users who are located in California or Europe can find additional information about their rights below.
+‍
+1) Access or update your information
+If you have registered for an account with us through the Service, you may review, correct, amend, update or delete certain account information by logging into the account.
+‍
+2) Opt-out of communications
+You may opt-out of marketing-related emails by following the opt-out  or unsubscribe instructions at the bottom of the email, or by contacting us. Please note that if you choose to opt-out of marketing-related emails, you may continue to receive service-related and other non-marketing emails.
+‍
+3) Declining to provide information
+We need to collect Personal Information to provide certain services. Ifyou do not provide the information we identify as required or mandatory, we may not be able to provide those services.
+‍
+4) Linked third-party platforms
+If you choose to connect to the Service through your social media account or other third-party platform, you may be able to use your settings in your account with that platform to limit the information wereceive from it. If you revoke our ability to access information from a third-party platform, that choice will not apply to information that we have already received from that third party.
+‍
+5) Cookies
+For information about cookies, how to make choices about the use of cookies and similar technologies, see our Cookie section in this Privacy Policy.
+‍
+Other sites and services
+The Service may, from time to time, contain links to external websites, mobile applications, and other online services operated by third parties. In addition, our content may be integrated into web pages or other online services that are not associated with us. These links and integrations are not an endorsement of, or representation that we are affiliated with, any third party. We do not control websites, mobile applications or online services operated by third parties, and we are not responsible for the Personal Information processing, privacy policies or the content of such third-party websites or applications. We encourage you to read the terms of use and privacy policies of the other third party websites, mobile applications and online services you use.
+‍
+Security
+The security of your Personal Information is important to us. We employ technical, organizational and physical safeguards designed to protect the Personal Information we collect. When you enter information into the Service, we will encrypt that information using secure socket layer technology (SSL) or similar technologies. We have security measures in place to attempt to protect the Personal Information and other information submitted to us and under our control against loss, misuse, and alteration.  While we cannot ensure or guarantee that loss, misuse, or alteration of information will never occur, we use reasonable efforts to prevent it. However, security risk is inherent in all internet and information technologies and we cannot guarantee the security of your Personal Information. In the event of a data breach or exposure of your Personal Information to unauthorized individuals, we will notify you at the email address you provided to us.
+‍
+Data retention
+We may retain Users’ account data internally for the following purposes:
+‍
+(i) Billing information, excluding payments made via a third-party payment processor, and transaction histories are retained to resolve subsequent billing disputes and inquiries.
+‍
+(ii) User account history is retained to support subsequent customer service inquiries and to provide and improve and develop the Service.
+‍
+(iii) To promote safety and security on and for the Service.
+‍
+(iv) To comply with legal obligations; and
+‍
+(v) For other lawful purposes.
+We may retain your information for as long as your account is active or to provide you with the Service or as needed to carry out the purposes set out herein. We only want to retain and process your Personal Information for aslong as needed for the purposes that we have collected your Personal Information. Where applicable, we will delete your Personal Information upon your request. We are entitled at all times to delete your Personal Information without notice. In such case, we owe no compensation to you asresult of deletion of the Personal Information. If you wish to obtain further information about the retention periods as applied to your personal data, you may contact us at
+privacy@vizcom.com
+‍
+International data transfer
+We are headquartered in the United States and may use service providers that operate in other countries. Please note that your Personal Information may be transferred to the United States or other locations where privacy laws may not be as protective as those in your state, province, or country. All Personal Information which we collect is sent to and stored on secure servers in the United States or as otherwise indicated at the following  vizcom.ai/subprocessors. Such storage is necessary to process the information. Vizcom operates globally and we may transfer the Personal Information that we collect from you to our other offices and/or to the third-parties as described herein.  Accordingly, Personal Information may be processed outside of your country or regional area.  Wherever we transfer your Personal Information, we will take reasonable steps to comply with applicable law, protect your Personal Information, ensure an adequate level of protection, and have appropriate safeguards for our users’ rights and legal remedies.
+‍
+Users in Europe should read the important information provided below about transfer of Personal Information outside of Europe.
+‍
+Children
+The Service is not intended for use by anyone under the age of eighteen (18). We do not knowingly collect any information from children under the age of eighteen (18). If you believe that we have inadvertently collected personal information in a manner prohibited by law, please contact us. If welearn that we have collected personal information through the Service from a child under the age of eighteen (18) without the consent of the child’s parent or guardian as required by law, we will comply with applicable legal requirements to delete the information.
+‍
+Changes to this privacy policy
+We reserve the right to modify this Privacy Policy at any time in our sole discretion to reflect changes to our Personal Information practices at any time or for other business purposes. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy and posting it on our website, the Service or other appropriate means. Any modifications to this Privacy Policy will be effective upon our posting the modified version (or as otherwise indicated at the time of posting). In all cases, your use of the Service after the effective date of any modified Privacy Policy indicates your acknowledgement that the modified Privacy Policy applies to your interactions with the Service and our business. If you do not wish to accept the change(s) you may opt-out by deleting your account.
+‍
+How to contact us
+In the event that you need to contact us for any reasons related to our privacy practices or this policy, our contact information is as follows:
+Email:
+privacy@vizcom.com
+Mail:   488 Bryant St. San Francisco, CA, 94107
+‍
+Notice to California users
+If you are a California resident, in addition to our Privacy Policy above, the following additional privacy disclosures under the California Consumer Privacy Act of 2018 (“CCPA”) and other California laws may be applicable to you and may allow you to exercise your rights regarding your Personal Information.
+‍
+1) General
+If the CCPA is applicable, you have the right to know and understand how we collect, use, disclose, and share your Personal Information, to access your information, to request that we delete specific information, to exercise your rights to opt-out, and also not be discriminated against when exercising your privacy rights granted under the CCPA.
+‍
+2) Categories of Information We May Collect
+We may collect the Personal Information described in the ‘Personal Information We Collect’ section of this Privacy Policy.
+‍
+3) Your Rights and Choices
+(a)Right to Know and Data Portability
+The CCPA provides California residents specific rights to know about our collection and use of their Personal Information over the past twelve (12) months (the “Right to Know”). Once we receive your request and confirm your identity, we will disclose to you:
+‍
+(i) The categories of Personal Information we collected about you.
+‍
+(ii) The categories of sources for the Personal Information we collected about you.
+‍
+(iii) Our business or commercial purpose for collecting that PersonalInformation.
+‍
+(iv) The categories of third parties with whom we share that Personal Information.
+‍
+(v) If we sold or disclosed (if applicable) your Personal Information for a business purpose, we will provide two separate lists that:
+a. identify the Personal Information categories that each category of recipient purchased in connection with sales of your Personal Information; and
+b. identify the Personal Information categories that each category of recipient obtained in connection with disclosures of your Personal Information for a business purpose.
+‍
+(b)Right to Delete
+The CCPA provides California residents specific rights to delete their Personal Information that we collected from them and retained, subject to certain exceptions (the “Right to Delete”). We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to:
+‍
+(i) Provide the Service, take actions reasonably anticipated within the context of our ongoing business relationship with you, fulfill the terms of a written warranty conducted in accordance with federal law, or otherwise perform our contract with you.
+‍
+(ii) Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+‍
+(iii) Debug the Service to identify and repair errors that impair existing intended functionality.
+‍
+(iv) Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.) or another legal obligation.Once we receive your request and confirm your identity, we will delete or deidentify Personal Information and direct our service providers to take similar action, unless subject to one of these exceptions above.
+‍
+4) How to Exercise the Rights to Know or Delete
+Only you, or someone legally authorized to act on your behalf, may make a request to know or delete related to your Personal Information. To exercise your rights to know or delete your Personal Information, please submit a request via the contact details displayed in the ‘  How to Contact Us’    section.
+You may only submit a request to know twice within a 12-month period. Your request to know or delete must:
+‍
+(i) Provide sufficient information that allows us to reasonably verifyyou are the person about whom we collected Personal Information or an authorized representative, which may include:your identification information, a signed permission authorizing the representative to submit the request on your behalf, and anyother information permitted or recommended by the CCPA and applicable regulations.
+‍
+(ii) Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+We cannot respond to your request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information relates to you. We will only use Personal Information provided in the request to verify the requestor's identity or authority to make the request.
+‍
+5) Response Timing and Format regarding Requests to Knowor Delete
+We will confirm receipt of your request within fifteen (15) business days. If you do not receive confirmation within the fifteen (15) business days timeframe, please contact us via the contact details displayed in the ‘  How to Contact Us’    section.We endeavor to substantively respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to another 45 days), we will inform you of the reason and extension period in writing. We may deliver our written response by email.
+‍
+Any disclosures we provide will only cover the 12-month period preceding our receipt of your request. The response we provide will also explain the reasons we cannot comply with a request, if applicable.
+‍
+We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded, or as otherwise permitted by the CCPA. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+‍
+6) Personal Information Sales Opt-Out Rights
+Under the CCPA, you have the right to direct us to not sell your Personal Information at any time (the "right to opt-out"). We do not sell your Personal Information. However, if you need to exercise your right to opt-out provided under CCPA, you (or your authorized representative) may submit a request to us via the contact details displayed in the ‘  How to Contact Us’    section.
+‍
+Notice to european users
+1) General
+In addition to our Privacy Policy presented above, the following terms apply only to individuals in the United Kingdom and the European Economic Area (i.e., “Europe” as defined at the top of this Privacy Policy).
+‍
+2) Personal information
+3) References to “Personal Information”
+in this Privacy Policy should be understood to include a reference to “personal data” (as defined in theGDPR) – i.e., information about individuals from which they are either directly identified or can be identified.
+‍
+Controller
+Vizcom is the controller in respect of the processing of your Personal Information covered by this Privacy Policy for purposes of European data protection legislation (i.e., the EU GDPR and the so-called ‘UK GDPR’ (as and where applicable, the “GDPR”)). For further information, please see the ‘How to Contact Us’ section above for our contact details.
+‍
+4) Our Legal Bases for Processing
+In respect of each of the purposes for which we use your Personal Information, the GDPR requires us to ensure that we have a “legal basis” for that use. Our legal bases for processing your Personal Information described int his Privacy Policy are listed below.
+Where we need to perform a contract, we are about to enter into or have entered into with you (“Contractual Necessity”).
+Where it is necessary for our legitimate interests and your interests and fundamental rights do not override those interests (“Legitimate Interests”). More detail about the specific legitimate interests pursued in respect of each Purpose we use your Personal Information for is set out in the table below.
+‍
+Where we need to comply with a legal or regulatory obligation (“Compliance with Law”).
+Where we have your specific consent to carry out the processingfor the Purpose in question (“Consent”).
+‍
+5) We have set out below, in a table format, the legal bases we rely on in
+respect of the relevant Purposes for which we use your personal
+information – for more information on these Purposes and the data
+types involved, see the ‘How we Use your Personal Information’
+section.
+‍
+6) Purpose and Categories of Personal Information Involved
+Service delivery and operations.
+Provide the Service;
+Enable security features of the Service;
+Communicate with you about the Service, including by sending
+Service-related announcements, updates, security alerts, and support and administrative messages;
+Provide support for the Service, and respond to your requests, questions and feedback.
+Service personalization.
+Understand your needs and interests
+Personalize your experience with the Service and our Service-related communications
+Remember your selections and preferences as you navigate webpages.
+‍
+Marketing and advertising.
+We, our service providers and our third-party advertising partners may collect and use your personal information for marketing and advertising purposes:
+‍
+Direct marketing.
+We may send you direct marketing communications and may personalize these messages based on your needs and interests. You may opt-out of our marketing communications as described in the Opt-out of marketing section below.
+‍
+Service improvement and analytics.
+We may use your personal information to analyze your usage of the
+Service, improve the Service, improve the rest of our business, help
+us understand user activity on the Service, including which pages are
+most and least visited and how visitors move around the Service, as
+well as user interactions with our emails, and to develop new
+products and services.
+‍
+7) Retention
+We retain Personal Information for as long as necessary to fulfil the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting requirements, to establish or defend legal claims, or for Compliance and protection purposes. For further information pertaining to our Retention practices, please see the ‘Data Retention’ section above.
+‍
+8) Sensitive Personal Information
+We do not collect and we ask that you not provide us with any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Service, or otherwise to us.
+‍
+9) No Automated Decision-Making and Profiling
+As part of the Service, we do not engage in automated decision-making and/or profiling, which produces legal or similarly significant effects.
+‍
+10) European Users Rights
+If you are an EU resident, you have specific rights regarding accessing, correcting and deleting your Personal Information:
+‍
+(i) the right to be informed about how your Personal Information is being used;
+‍
+(ii) the right to access the Personal Information we hold about you; and
+‍
+(iii) the right to request the correction of inaccurate Personal Information we hold about you and to request the blocking or deletion of your Personal Information where the processing doesnot comply with local data protection laws.
+To exercise any of the above rights, or if you have a question relating to your rights, you (or your authorized representative) may submit a request tous via the contact details displayed in the ‘  How to Contact Us’    section.For information pertaining to our response time, deletion requests, corrections, updates or changes to the Personal Information we hold about you, please refer to the ‘Response Timing and Format regarding Requests to Know or Delete’ section above.If we decide not to change your Personal Information in the manner you have requested, we will advise you of this in writing and your options if you are not satisfied with our decision.
+‍
+11) Data Processing Outside Europe
+We are a U.S.-based company and many of our service providers, advisers, partners, or other recipients of data are also based in the U.S. This means that, if you use the Service, your Personal Information will necessarily be accessed and processed in the U.S. It may also be provided to recipients in other countries outside Europe.It is important to note that the U.S. is not the subject of an ‘adequacy decision’ under the GDPR – basically, this means that the U.S. legal regime is not considered by relevant European bodies to provide an adequate level of protection for Personal Information, which is equivalent to that provided by relevant European laws.
+Where we share your Personal Information with third parties who are basedoutside Europe, we try to ensure a similar degree of protection is afforded to it by making sure one of the following mechanisms is implemented:
+Transfers to territories with an adequacy decision. We may transfer your Personal Information to countries or territories whose laws have been deemed to provide an adequate level of protection for personal information by the European Commission or UK Government(as and where applicable) (from time to time).
+Transfers to territories without an adequacy decision.
+We may transfer your Personal Information to countries or territories outside the EEA to a third country whose laws have not been deemed to provide such an adequate level of protection (e.g., the U.S., see above) and may not be subject to an adequacy decision by the EU Commission or considered  adequate as determined by applicable data protection laws.
+‍
+However, in these cases:
+▪ we will use specific appropriate safeguards, which are designed to ensure that your Personal Information continues to receive the same protection that is at least comparable to that provided in Europe or under the applicable laws. We use the European Commission-approved Standard Contractual Clauses or other data transfer mechanisms available under applicable data protection laws, and further contractual supplementary measures where necessary to ensure the effectiveness of the transfer mechanisms; or
+▪ in limited circumstances, we may rely on an exception, or ‘derogation’, which permits us to transfer your Personal Information to such a country despite the absence of an ‘adequacy decision’ or ‘appropriate safeguards’ – for example, reliance on your explicit consent to that transfer.
+‍
+12) You may contact us if you want further information on the specific mechanism used by us when transferring your Personal Information out of Europe.
+You may have the right to receive a copy of the appropriate safeguards under which your Personal Information is transferred by contacting us at
+privacy@vizcom.com
+‍
+13) User Contact Information
+For users in the European Economic Area, the contact information for the data protection regulator in your place of residence can be found here:
+https://edpb.europa.eu/about-edpb/board/members_en
+‍
+For users in the UK
+The contact information for the UK data protection regulator is below:
+The Information Commissioner’s Office
+Water Lane, Wycliffe House
+Wilmslow - Cheshire SK9 5AF
+Website:
+https://ico.org.uk/make-a-complaint/
+‍
+Frequently asked questions
+Watch demo
+Ask a question
+Can I use Vizcom for free?
+Yes of course! Our starter plan is completely free, no credit card required. This is a great plan to explore vizcom with.
+Get started for free
+What payment methods can I use?
+We accept all major credit and debit cards.
+Which roles are there and which are paid?
+Admins (paid) – can edit files, manage workspace settings, billing, teams, and invite members. Editors (paid) – can edit files but not manage settings, billing, or teams. Viewers (free) – can only view files in read-only mode.
+How does team billing work?
+Team billing is handled centrally by the Admin. All paid seats, whether Admins or Editors, are included in a single invoice under the same billing cycle, while Viewers remain free and do not affect the cost.
+Can I change my subscription from monthly to yearly?
+Yes, you can. An Admin can update the plan in the billing settings, and the switch will take effect on the next billing cycle at the annual rate.
+Do I own the content I produce in Vizcom?
+Yes, you own everything you create in Vizcom. For free users, while Vizcom may use generated images to improve its services, it does not claim ownership of your designs, concepts, or original ideas—you keep full rights to them. For paid users, your images and designs remain entirely private and are only used to deliver the service. Every design, concept, and image you create or upload is fully yours and kept confidential.
+Does Vizcom use my data to train Al models?
+Vizcom does not use your data to train AI models if you’re on a paid plan. Everything you create stays private and is only used to provide the service. Free users may have their generated images included to help improve Vizcom’s services, but even then, Vizcom does not claim ownership of your designs, concepts, or original ideas—you retain full rights.
