@@ -14,13 +14,15 @@ Features:
 Run from project root:
     streamlit run app.py
 """
-
+import os
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 import json
 import sys
 from pathlib import Path
 
 import pandas as pd
 import streamlit as st
+import chromadb
 
 # Make src/ importable
 sys.path.insert(0, str(Path(__file__).parent / "src"))
@@ -37,10 +39,38 @@ st.set_page_config(
 
 
 # ---- Cached resources (load once, reuse across interactions) ----
-@st.cache_resource(
-    show_spinner="Loading Vizcom chatbot (first time takes ~30 seconds)..."
-)
+def _vector_store_ready() -> bool:
+    """Return True if both Chroma collections already exist on disk."""
+    chroma_dir = Path("chroma_db")
+    if not chroma_dir.exists():
+        return False
+    try:
+        client = chromadb.PersistentClient(path=str(chroma_dir))
+        client.get_collection("vizcom_docs")
+        client.get_collection("vizcom_qa")
+        return True
+    except Exception:
+        return False
+
+
+@st.cache_resource(show_spinner="Loading Vizcom chatbot...")
 def load_chatbot():
+    # On a fresh deploy (Streamlit Cloud, new clone, etc.) the vector store
+    # won't exist yet. Build it once from data/raw/ + data/qa_dataset.csv.
+    if not _vector_store_ready():
+        from vector_store import main as build_vector_store
+        with st.status(
+            "Building vector store (first launch only — 2-3 minutes)...",
+            expanded=True,
+        ) as status:
+            st.write("Loading embedding model...")
+            st.write("Indexing 244 document chunks + 320 Q/A pairs into Chroma...")
+            build_vector_store()
+            status.update(
+                label="Vector store ready",
+                state="complete",
+                expanded=False,
+            )
     return VizcomChatbot()
 
 
